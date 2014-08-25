@@ -1,0 +1,4 @@
+png2rle_*
+*.o
+*.png
+*.rle
